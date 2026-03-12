@@ -1,0 +1,20 @@
+# Build and IDE
+target/
+.classpath
+.project
+.settings/
+*.class
+*.jar
+*.log
+
+# Database files (generated at runtime)
+hockey.db
+
+# IDE
+.vscode/
+.idea/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
