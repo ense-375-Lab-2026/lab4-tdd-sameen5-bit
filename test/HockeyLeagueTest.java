@@ -1,5 +1,5 @@
 /*
- * Name: Yash Jadav
+ * Name: Dur Sameen Bukhari
  * Student ID: 200519386
  * Course: ENSE 375
  * Lab: Lab 4 – Code Coverage
