@@ -1,6 +1,6 @@
 /*
- * Name: Dur Sameen Bukhari
- * Student ID: 200519386
+ * Name: Dur E Sameen Bukhari
+ * Student ID: 200542362
  * Course: ENSE 375
  * Lab: Lab 4 – Code Coverage
  */
@@ -26,7 +26,7 @@ import java.util.ArrayList;
  * 
  * <p>Total tests: 28, covering all major functionality with >80% code coverage.</p>
  * 
- * @author Yash Jadav
+ * @author Dur E Sameen Bukhari
  * @version 1.0
  * @since Lab 4 - Code Coverage
  */
