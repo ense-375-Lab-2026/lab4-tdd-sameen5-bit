@@ -1,6 +1,6 @@
 /*
- * Name: Yash Jadav
- * Student ID: 200519386
+ * Name: Dur E Sameen Bukhari
+ * Student ID: 200542362
  * Course: ENSE 375
  * Lab: Lab 4 – Code Coverage
  */
@@ -30,7 +30,7 @@
  * </p>
  * 
  * @author Trevor Douglas
- * @author Yash Jadav
+ * @author Dur E Sameen Bukhari
  * @version 1.0
  * @since Lab 4 - Code Coverage
  */
