@@ -1,6 +1,6 @@
 /*
  * Name: Dur E Sameen Bukhari
- * Student ID: 200519386
+ * Student ID: 200542362
  * Course: ENSE 375
  * Lab: Lab 4 – Code Coverage
  */
@@ -9,7 +9,7 @@
 * HockeyLeague.java
 *
 * @author Trevor Douglas
-* @author Yash Jadav
+* @author Dur e Sameen Bukhari
 *   <A HREF="mailto:douglatr@uregina.ca"> (douglatr@uregina.ca) </A>
 *
 * Original code copyright � Mar 15, 2010 Trevor Douglas.  Modifications can be made

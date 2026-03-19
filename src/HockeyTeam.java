@@ -9,7 +9,7 @@
 * HockeyTeam.java
 *
 * @author Trevor Douglas
-* @author Yash Jadav
+* @author Dur e Sameen Bukhari
 *   <A HREF="mailto:douglatr@uregina.ca"> (douglatr@uregina.ca) </A>
 *
 * Original code copyright � Mar 15, 2010 Trevor Douglas.  Modifications can be made

@@ -1,8 +1,8 @@
 # Lab 4: Hockey League Simulator - Code Coverage Report
 
 ## Student Information
-- **Name:** Yash Jadav
-- **Student ID:** 200519386
+- **Name:** Dur e Sameen Bukhari
+- **Student ID:** 200542362
 - **Course:** ENSE 375
 - **Lab:** Lab 4 – Code Coverage
 
